@@ -1,0 +1,13 @@
+th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+.productTable{
+    border: 3px solid black;
+    border-collapse: collapse;  
+    width: 25px;
+  
+}
+.imagesProduct{
+    width: 100px;
+}
