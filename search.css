@@ -1,14 +1,17 @@
+/* body{
+    direction: rtl;
+} */
 th,td{
     border: 3px solid black;
     border-collapse: collapse;
    color: rgb(100, 99, 99); 
-   width: 200px;
+   /* width: 200px; */
  
 }
 .productTable{
     border: 3px solid black;
     border-collapse: collapse;  
-    width: 25px;
+    width: 800px;
     margin: auto;
 }
 .imagesProduct{
